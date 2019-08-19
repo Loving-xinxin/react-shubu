@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-shubu/static/css/main.2c6d4145.chunk.css",
-    "main.js": "/react-shubu/static/js/main.8ed642f6.chunk.js",
-    "main.js.map": "/react-shubu/static/js/main.8ed642f6.chunk.js.map",
+    "main.css": "/react-shubu/static/css/main.5fbe10ab.chunk.css",
+    "main.js": "/react-shubu/static/js/main.4b6dd391.chunk.js",
+    "main.js.map": "/react-shubu/static/js/main.4b6dd391.chunk.js.map",
     "runtime~main.js": "/react-shubu/static/js/runtime~main.c72a56f8.js",
     "runtime~main.js.map": "/react-shubu/static/js/runtime~main.c72a56f8.js.map",
     "static/js/2.ed64165c.chunk.js": "/react-shubu/static/js/2.ed64165c.chunk.js",
     "static/js/2.ed64165c.chunk.js.map": "/react-shubu/static/js/2.ed64165c.chunk.js.map",
     "index.html": "/react-shubu/index.html",
-    "precache-manifest.940a03c224882dab9643f1c5396a7b1a.js": "/react-shubu/precache-manifest.940a03c224882dab9643f1c5396a7b1a.js",
+    "precache-manifest.d212fdbec38239ca6e09c02aa03169b8.js": "/react-shubu/precache-manifest.d212fdbec38239ca6e09c02aa03169b8.js",
     "service-worker.js": "/react-shubu/service-worker.js",
-    "static/css/main.2c6d4145.chunk.css.map": "/react-shubu/static/css/main.2c6d4145.chunk.css.map"
+    "static/css/main.5fbe10ab.chunk.css.map": "/react-shubu/static/css/main.5fbe10ab.chunk.css.map"
   }
 }
